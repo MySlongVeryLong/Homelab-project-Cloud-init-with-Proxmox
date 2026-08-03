@@ -19,7 +19,7 @@ In this section, I will use the **Ubuntu 24.04 LTS Cloud Image** for our templat
 
 1. Download the [Ubuntu Cloud Image](https://cloud-images.ubuntu.com/noble/current/) onto our Proxmox server.
 
-(images/Pasted image 20260802220237.png)
+!(images/Pasted image 20260802220237.png)
 
 2. Open the Proxmox terminal and create a VM shell using the following command:
 
